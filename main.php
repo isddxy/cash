@@ -22,4 +22,6 @@ echo $char_1."<br>";
 echo $row['rate'].'<br>';
 echo $sum;	
 
+//тест теткт github
+
 ?>
